@@ -1,5 +1,3 @@
-[!MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
-
 <h1 align="center">Hi 👋, I'm Samadi senavirathne</h1>
 <img align ="right" alt="coding" width ="400" src="https://camo.githubusercontent.com/8d3a24af335039bfd365e4bc2c805d9c30268df63e283b7c87d8cffa2746fb22/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f302a7942764135436e455833536434616f642e676966">
 
