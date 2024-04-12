@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samadi senavirathne</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">I'm currently working towards my undergraduate degree.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadisenavirathne&label=Profile%20views&color=0e75b6&style=flat" alt="samadisenavirathne" /> </p>
 
