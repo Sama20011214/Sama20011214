@@ -10,29 +10,45 @@
 
 ## 🚀 About Me
 
-```javascript
-const samadi = {
-    code: ["JavaScript", "Java", "C++", "C", "PHP"],
-    technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript", "React"],
-        backEnd: ["Node.js", "Express.js"],
-        mobile: ["React Native"],
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "GitHub", "VS Code"]
-    },
-    currentFocus: "Building full-stack applications with MEARN stack",
-    funFact: "I know I have issues, but debugging is my superpower! 🐛✨"
-};
+I'm a passionate **Full Stack Developer** and **undergraduate student** from Sri Lanka, specializing in the **MEARN stack**. I love turning ideas into reality through code and am always eager to learn new technologies and tackle challenging problems.
+
+🎯 **What drives me:**
+- Building user-friendly web applications
+- Exploring mobile development with React Native
+- Contributing to open-source projects
+- Continuous learning and skill development
+
+💻 **My journey:** Started with C and Java, evolved into web development, and now focused on creating full-stack solutions that make a difference.
 ```
 
 ## 🔭 What I'm Up To
 
-- 🎓 **Currently working on:** My undergraduate degree
-- 🌱 **Learning:** Web Development, Android Development, React Native
-- 👯 **Looking to collaborate on:** Web development projects
-- 💬 **Ask me about:** MEARN Stack (MongoDB, Express.js, Angular/React, Node.js)
-- 📫 **Reach me:** [Jithmisamadi2001@gmail.com](mailto:Jithmisamadi2001@gmail.com)
-- ⚡ **Fun fact:** I know I have issues, but that's what makes debugging fun! 😄
+<table>
+<tr>
+<td>🎓</td>
+<td><b>Currently working on:</b> My undergraduate degree in Software Engineering</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Learning:</b> Advanced React patterns, Node.js best practices, React Native</td>
+</tr>
+<tr>
+<td>👯</td>
+<td><b>Looking to collaborate on:</b> Open source web development projects</td>
+</tr>
+<tr>
+<td>💬</td>
+<td><b>Ask me about:</b> MEARN Stack, JavaScript, React, Node.js</td>
+</tr>
+<tr>
+<td>📫</td>
+<td><b>Reach me:</b> <a href="mailto:Jithmisamadi2001@gmail.com">Jithmisamadi2001@gmail.com</a></td>
+</tr>
+<tr>
+<td>⚡</td>
+<td><b>Fun fact:</b> I debug code like solving puzzles - the harder, the better! 🧩</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
@@ -48,30 +64,37 @@ const samadi = {
   </a>
 </div>
 
-## 🛠️ Tech Stack
+## 🌟 Skills & Expertise
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Database
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database Technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Mobile
+### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -92,10 +115,23 @@ const samadi = {
   <img src="https://github-profile-trophy.vercel.app/?username=Sama20011214&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sama20011214&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sama20011214&theme=tokyonight&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sama20011214&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+## 💼 Featured Projects
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sama20011214&repo=portfolio&theme=tokyonight)](https://github.com/Sama20011214/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sama20011214&repo=web-app&theme=tokyonight)](https://github.com/Sama20011214/web-app)
+
 </div>
 
 ## 🎯 Current Goals
