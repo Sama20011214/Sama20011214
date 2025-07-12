@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8d3a24af335039bfd365e4bc2c805d9c30268df63e283b7c87d8cffa2746fb22/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f302a7942764135436e455833536434616f642e676966">
-
 ## 🚀 About Me
 
 I'm an undergraduate student pursuing **BSc (Hons) in Information Technology** at **SLIIT**, with a passion for developing efficient and scalable applications. I thrive on new challenges and love collaborating with teams to deliver high-quality results.
@@ -115,9 +113,8 @@ I'm an undergraduate student pursuing **BSc (Hons) in Information Technology** a
 ## 🎓 Education
 
 **Sri Lanka Institute of Information Technology (SLIIT)**
-- BSc (Hons) in Information Technology
-- Specialized in Information Technology
-- May 2022 - Present
+- BSc (Hons) in Information Technology Specialized in Information Technology
+
 
 ## 🌐 Connect with Me
 
