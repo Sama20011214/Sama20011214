@@ -16,7 +16,7 @@ I'm an undergraduate student pursuing **BSc (Hons) in Information Technology** a
 - 💬 Ask me about **MERN Stack, Java, Python, or anything tech-related**
 - 📫 How to reach me: **jithmisamadi2001@gmail.com**
 - 🎯 Currently seeking **internship opportunities** to apply my skills
-- ⚡ Fun fact: **I know I have issues, but debugging is my therapy! :)**
+- ⚡ Fun fact: **I know I have issues :)**
 
 ## 🛠️ Technical Skills
 
