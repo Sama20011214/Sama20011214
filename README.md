@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### **Programming Languages**
 <p align="left">
@@ -63,7 +63,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 ### **Backend & Database**
@@ -82,37 +81,41 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔥 **BookHive - Smart Book Sharing Platform**
-**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
-**Features:** AI-powered recommendations, Real-time search, Book exchange system  
-**Role:** Lead Developer - Exchange Management Module  
-*Building an eco-friendly community-driven book sharing ecosystem*
+### 📚 **BookHive - Smart Book Sharing Platform**
+- **Tech Stack:** React.js (Vite), Tailwind CSS, Node.js, Express.js, MongoDB
+- **Features:** AI-powered book recommendations, Real-time search, Book exchange system
+- **Role:** Lead Developer - Exchange Management Module
+- **Impact:** Promotes eco-friendly reading habits and personalized content delivery
 
-### 🛍️ **Zero.lk - E-commerce Redesign**  
-**Tech Stack:** Figma, UX Research, Wireframing, Prototyping  
-**Focus:** Improved usability, accessibility, and mobile responsiveness  
-*Transforming user experience through research-driven design*
+### 🛍️ **Zero.lk - E-commerce Website Redesign**
+- **Tech Stack:** Figma, UX Research, Wireframing, Prototyping
+- **Focus:** Improved usability, accessibility, and mobile responsiveness
+- **Deliverables:** Wireframes, high-fidelity prototypes, user research insights
 
 ### 🚗 **C&S Auto Care - Service Management System**
-**Tech Stack:** React, Tailwind CSS, Node.js, MongoDB, JWT  
-**Features:** Online reservations, Spare parts e-commerce, Customer management  
-*Bridging physical and digital service experiences*
+- **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+- **Features:** Online reservations, Spare parts e-commerce, Customer management
+- **Purpose:** Bridging physical and digital service experiences
 
 ### 🏨 **HotelHub - Reservation System**
-**Tech Stack:** HTML, CSS, JavaScript, MySQL, MVC Architecture  
-**Focus:** Full-stack development with clean architecture patterns  
-*Seamless hotel booking experience with robust backend*
+- **Tech Stack:** HTML, CSS, JavaScript, MySQL, MVC Architecture
+- **Focus:** Full-stack development with clean architecture patterns
+- **Learning:** Enhanced skills in both frontend and backend development
+
+### 💪 **Fitzone - Fitness Training System**
+- **Tech Stack:** HTML, CSS, Java, MySQL, PHP
+- **Features:** User registration, workout booking, product purchasing
+- **Focus:** Responsive design and user-friendly interface
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sama20011214&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -125,26 +128,20 @@
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus
 
 ```javascript
 const samadi = {
     education: "BSc (Hons) Information Technology @ SLIIT",
     currentFocus: "Seeking internship opportunities",
-    code: ["Java", "JavaScript", "Python", "Kotlin", "C++"],
+    code: ["Java", "JavaScript", "Python", "Kotlin", "C++", "PHP", "R"],
     specializations: ["Full Stack Development", "AI/ML Engineering", "UX/UI Design"],
     technologies: {
-        frontend: ["React", "Tailwind CSS", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js", "PHP"],
+        frontend: ["React", "HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "PHP", "Java"],
         databases: ["MongoDB", "MySQL", "Firebase"],
-        tools: ["Git", "Figma", "Postman", "VS Code"]
+        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "R Studio"]
     },
-    certifications: [
-        "AI/ML Engineer Stage 1 & 2",
-        "Android Application Development",
-        "Postman API Fundamentals",
-        ".NET Fundamentals"
-    ],
     currentGoal: "Contributing to innovative projects while gaining industry experience",
     philosophy: "Building solutions that make a positive impact 🌍"
 };
@@ -152,36 +149,54 @@ const samadi = {
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications
+
+- 🤖 **AI/ML Engineer Stage 1 & 2** - SLIIT
+- 📱 **Android Application Development** - Great Learning
+- 🌐 **Introduction to JavaScript** - Great Learning
+- 🔧 **Postman API Fundamentals** - Postman
+- 💻 **.NET Fundamentals** - Great Learning
+- 🐍 **Python for Beginners** - University of Moratuwa
+- 🔄 **Git Fundamentals** - Simplilearn
+- 🌐 **Exploring ASP.NET Core: Intermediate** - Great Learning
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-
-| **Area** | **Certification** | **Provider** |
-|----------|------------------|--------------|
-| 🤖 **AI/ML** | AI/ML Engineer Stage 1 & 2 | SLIIT |
-| 📱 **Mobile** | Android Application Development | Great Learning |
-| 🌐 **Web** | Introduction to JavaScript | Great Learning |
-| 🔧 **Tools** | Postman API Fundamentals | Postman |
-| 💻 **Framework** | .NET Fundamentals | Great Learning |
-| 🐍 **Languages** | Python for Beginners | UOM |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sama20011214&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-## 🎨 Design Philosophy
+## 💡 Skills Summary
 
-> *"Great software is not just about clean code, but about creating meaningful experiences that solve real-world problems while being environmentally conscious."*
+**Technical Skills:**
+- **Programming:** Java, JavaScript, Python, Kotlin, C/C++, PHP, R
+- **Web Development:** React.js, HTML5, CSS3, Node.js, Express.js
+- **Databases:** MongoDB, MySQL, Firebase
+- **Tools:** Git, GitHub, VS Code, Figma, Postman, R Studio
+- **Design:** UI/UX Design, Wireframing, Prototyping
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=white&animation=twinkling"/>
-</div>
+**Soft Skills:**
+- Problem-solving and analytical thinking
+- Team collaboration and leadership
+- Research and development
+- Communication and presentation
+- Time management and multitasking
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sama20011214&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
+
+<div align="center">
+  <h3>💭 "Code is poetry written in logic"</h3>
+</div>
+
+---
 
 <div align="center">
   <sub>⭐ From <a href="https://github.com/Sama20011214">Samadi Senavirathne</a> - Information Technology Student & Future Innovator</sub>
