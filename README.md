@@ -119,11 +119,6 @@ I'm an undergraduate student pursuing **BSc (Hons) in Information Technology** a
 - Specialized in Information Technology
 - May 2022 - Present
 
-**Bomiriya Central College, Kaduwela**
-- GCE Advanced Level (Commerce Stream)
-- Subjects: Accounting (A), Business Studies (A), Economics (B)
-- Z-Score: 1.324
-
 ## 🌐 Connect with Me
 
 <div align="center">
