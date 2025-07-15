@@ -74,17 +74,7 @@ I'm an undergraduate student pursuing **BSc (Hons) in Information Technology** a
 ### 🏨 HotelHub - Online Hotel Reservation System
 - **Tech Stack:** HTML, CSS, JavaScript, MySQL, MVC Architecture
 - **Learning:** Enhanced skills in both frontend and backend development through collaborative work
-
-## 📜 Certifications
-
-- 🎓 **AI/ML Engineer Stage 1 & 2** - SLIIT
-- 🎓 **Android Application Development** - Great Learning
-- 🎓 **Exploring ASP.NET Core: Intermediate** - Professional Development
-- 🎓 **Postman API Fundamentals Student Expert** - Postman
-- 🎓 **Python for Beginners** - University of Moratuwa
-- 🎓 **JavaScript Introduction** - Great Learning
-- 🎓 **Git Version Control** - Simplilearn
-
+  
 ## 📊 GitHub Analytics
 
 <div align="center">
